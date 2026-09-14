@@ -1,0 +1,6 @@
+{
+  "name": "Carte Mentale - Chef de Projet Transformation Numérique",
+  "description": "Modèle de carte mentale interactive, prise de notes et FAQ outillage pour la formation Chef.fe de Projet en Transformation Numérique (WinSide).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
