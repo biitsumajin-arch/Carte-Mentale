@@ -42,7 +42,6 @@ export const Navbar: React.FC<NavbarProps> = ({
     { id: 'software_functions' as ViewMode, label: 'Fonctions & Checklist', icon: ListChecks, badge: 'Catalogue', description: 'Fonctionnalités & suivi des acquis' },
     { id: 'markdown' as ViewMode, label: 'Markdown Annotable', icon: FileText, badge: `${notesCount} notes`, description: 'Programme détaillé & notes perso' },
     { id: 'mermaid' as ViewMode, label: 'Mermaid.js', icon: GitFork, badge: '🌿 Nature', description: 'Diagramme dynamique coloré' },
-    { id: 'plantuml' as ViewMode, label: 'PlantUML', icon: Binary, badge: 'Syntaxe', description: 'Code source et architecture' },
     { id: 'faqs' as ViewMode, label: 'FAQ Outils', icon: HelpCircle, badge: `${totalFaqsCount} Q&A`, description: 'Questions/Réponses par logiciel' },
     { id: 'flashcards' as ViewMode, label: 'Mode Révision', icon: Sparkles, badge: 'Quiz', description: 'Auto-évaluation & cartes mémoire' },
   ];

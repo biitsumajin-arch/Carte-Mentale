@@ -161,7 +161,7 @@ export default function App() {
           <div className="text-slate-400 flex items-center gap-3">
             <span>22 Juin - 2 Octobre 2026</span>
             <span>•</span>
-            <span className="text-indigo-400 font-medium">Formats Markdown • Mermaid.js • PlantUML</span>
+            <span className="text-indigo-400 font-medium">Formats Markdown • Mermaid.js</span>
           </div>
         </div>
       </footer>
